@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>States</Title>
+      <Description>adaptive trigger visual states</Description>
+      <Shortcut>states</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Code Language="XAML">
+        <![CDATA[<VisualStateManager.VisualStateGroups>
+    <VisualStateGroup x:Name="ScreenGroup">
+      <VisualState x:Name="ExtraWide">
+        <VisualState.StateTriggers>
+          <AdaptiveTrigger MinWindowWidth="1200" />
+        </VisualState.StateTriggers>
+        <!-- Add setters or story boards -->
+        
+      </VisualState>
+      <VisualState x:Name="Wide">
+        <VisualState.StateTriggers>
+          <AdaptiveTrigger MinWindowWidth="800" />
+        </VisualState.StateTriggers>
+        <!-- Add setters or story boards -->
+        
+      </VisualState>
+    </VisualStateGroup>
+  </VisualStateManager.VisualStateGroups>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+  
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>ExtraWide</Title>
+      <Description>ExtraWide visual setters</Description>
+      <Shortcut>ew</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Code Language="XAML">
+        <![CDATA[<VisualState.Setters>
+                        <Setter Target="Root.Background" 
+								Value="Cyan"/>
+                        <Setter Target="Title.FontSize"
+								Value="50"/>
+                        <Setter Target="Description.FontSize"
+								Value="40"/>
+                        <Setter Target="State.Text"
+                                Value="ExtraWide"/>
+                    </VisualState.Setters>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Wide</Title>
+      <Description>Wide visual setters</Description>
+      <Shortcut>wide</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Code Language="XAML">
+        <![CDATA[<VisualState.Setters>
+                        <Setter Target="Root.Background" 
+								Value="Orange"/>
+                        <Setter Target="Title.FontSize"
+								Value="40"/>
+                        <Setter Target="Description.FontSize"
+								Value="30"/>
+                        <Setter Target="State.Text"
+                                Value="Wide"/>
+                    </VisualState.Setters>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

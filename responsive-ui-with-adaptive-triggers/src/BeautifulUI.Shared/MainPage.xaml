@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="BeautifulUI.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BeautifulUI"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid x:Name="Root"	Background="White">
+        <Grid Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="Title"
+                   Text="Hello, UnoConf!"
+				   FontWeight="Bold"/>
+            <TextBlock x:Name="Description"
+				   Text="UnoConf is a gathering point for the complete Uno community - Engineering team, Code Contributors as well as those wishing to learn more about Uno Platform. It will feature world-renowned speakers and attendees interested in learning about the Uno Platform, WebAssembly, Desktop/WinUI and Mobile cross-platform development."
+				   TextWrapping="Wrap"
+				   Grid.Row="1"/>
+        </Grid>
+        <TextBlock x:Name="State"
+                   Text="Default"
+                   FontSize="30"
+                   VerticalAlignment="Bottom"/>
+    </Grid>
+</Page>
+
