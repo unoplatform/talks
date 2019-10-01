@@ -1,4 +1,4 @@
-# talks
+# Talks
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 Conference, Meetups and Hackathon presentation materials for the Uno Platform 
