@@ -12,6 +12,8 @@ Use the UWP tooling from Windows in [Visual Studio](https://www.visualstudio.com
 
 ## Contributors ✨
 
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
