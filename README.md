@@ -1,5 +1,5 @@
 # talks
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 This directory contains details about conference, meetup and hackathon presentation materials for the Uno Platform.
 
@@ -19,6 +19,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/MatFillion"><img src="https://avatars0.githubusercontent.com/u/7029537?v=4" width="100px;" alt="Mathieu Fillion"/><br /><sub><b>Mathieu Fillion</b></sub></a><br /><a href="#talk-MatFillion" title="Talks">📢</a> <a href="https://github.com/unoplatform/talks/commits?author=MatFillion" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/psifrous"><img src="https://avatars3.githubusercontent.com/u/36012704?v=4" width="100px;" alt="Naman Bansal"/><br /><sub><b>Naman Bansal</b></sub></a><br /><a href="https://github.com/unoplatform/talks/commits?author=psifrous" title="Documentation">📖</a></td>
   </tr>
 </table>
 
