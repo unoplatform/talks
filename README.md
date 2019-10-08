@@ -1,7 +1,9 @@
 # talks
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
-This directory contains details about conference, meetup and hackathon presentation materials for the Uno Platform.
+This directory contains details about our Conferences, Meetups and various Hackathon presentation materials for the Uno Platform.
+For reference you can also grab some of our quick writeups from our [Medium Blog Posts](https://medium.com/@unoplatform).
+For taking a quick look at the scheduled Conferences you can also refer out official [Conference Page](https://unoconf.com/).
 
 # About the platform
 
