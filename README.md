@@ -1,7 +1,7 @@
 # Talks
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-Conference, Meetups and Hackathon presentation materials for the Uno Platform 
+Conference, Meetups and Hackathon presentation materials for the Uno Platform.
 
 ## Contributors ✨
 
@@ -17,4 +17,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
