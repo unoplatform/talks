@@ -20,6 +20,8 @@ to WebAssembly and concert it into a .NET assembly that is fully interoperable w
 
 ### what is webassembly
 
+- https://medium.com/wasmer/webassembly-sh-408b010c14db
+
 ### let's play
 
 - https://webassembly.studio/
