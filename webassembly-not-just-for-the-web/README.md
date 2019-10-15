@@ -18,7 +18,13 @@ to WebAssembly and concert it into a .NET assembly that is fully interoperable w
 ### introductions
 
 - https://platform.uno/
+
+Display network tab during demos, you'll will see mono.wasm, this is the runtime, and it is the only wasm file, and you’ll see a bunch of .clr files, those are in fact .dlls but it’s just a hack because some entreprise firewalls block .dll files. It is automated behind the scenes by the uno.wasm.bootstrap package.
+
 - https://playground.platform.uno
+
+ 
+
 - https://calculator.platform.uno/
 
 ### what is webassembly
