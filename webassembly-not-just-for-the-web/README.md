@@ -35,6 +35,9 @@ Display network tab during demos, you'll will see mono.wasm, this is the runtime
     - Show output .wasm file
     - Create Add Method and show output again (see the method was optimized)
 
+- https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/
+
+
 #### wasi
 
 - https://wasi.dev/
