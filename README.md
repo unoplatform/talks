@@ -1,4 +1,4 @@
-# Talks
+# Talks :loudspeaker:
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 This directory contain details about conferences, meetups and hackathon presentation materials for the Uno Platform.
