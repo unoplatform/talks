@@ -1,0 +1,10 @@
+﻿<linker>
+  <assembly fullname="XfWasm.Wasm" />
+  <assembly fullname="Uno.UI" />
+  <assembly fullname="XfWasm" />
+
+  <assembly fullname="System.Core">
+	<!-- This is required by Json.NET and any expression.Compile caller -->
+	<type fullname="System.Linq.Expressions*" />
+  </assembly>
+</linker>

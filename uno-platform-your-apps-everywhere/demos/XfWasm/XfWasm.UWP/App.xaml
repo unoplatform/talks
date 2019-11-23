@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="XfWasm.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XfWasm.UWP"
+    RequestedTheme="Light">
+
+</Application>
