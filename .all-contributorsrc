@@ -23,11 +23,22 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "MartinZikmund",
+      "name": "Martin Zikmund",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1075116?v=4",
+      "profile": "https://blog.mzikmund.com",
+      "contributions": [
+        "talk",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "talks",
   "projectOwner": "unoplatform",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
