@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="HelloUno.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HelloUno"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <StackPanel Padding="12" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock Text="Hello, Uno Platform!" Margin="20" FontSize="30" />
+        <Slider x:Name="Slider" />
+        <TextBlock Text="{Binding Value, ElementName=Slider}" FontSize="70" />
+        <Button>
+            <Button.Content>
+                <Image Source="/Assets/UnoLogo.png" Width="150" />
+            </Button.Content>
+        </Button>
+    </StackPanel>
+</Page>
