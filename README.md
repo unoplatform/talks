@@ -23,6 +23,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/psifrous"><img src="https://avatars3.githubusercontent.com/u/36012704?v=4" width="100px;" alt=""/><br /><sub><b>Naman Bansal</b></sub></a><br /><a href="https://github.com/unoplatform/talks/commits?author=psifrous" title="Documentation">📖</a></td>
     <td align="center"><a href="https://blog.mzikmund.com"><img src="https://avatars3.githubusercontent.com/u/1075116?v=4" width="100px;" alt=""/><br /><sub><b>Martin Zikmund</b></sub></a><br /><a href="#talk-MartinZikmund" title="Talks">📢</a> <a href="https://github.com/unoplatform/talks/commits?author=MartinZikmund" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/shahkv95"><img src="https://avatars0.githubusercontent.com/u/35930270?v=4" width="100px;" alt=""/><br /><sub><b>Kush_Shah</b></sub></a><br /><a href="https://github.com/unoplatform/talks/commits?author=shahkv95" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/snehalbiju12"><img src="https://avatars3.githubusercontent.com/u/43215613?v=4" width="100px;" alt=""/><br /><sub><b>snehalbiju12</b></sub></a><br /><a href="https://github.com/unoplatform/talks/commits?author=snehalbiju12" title="Documentation">📖</a></td>
   </tr>
 </table>
 
